@@ -23,14 +23,10 @@ A beautifully designed Flutter application for exploring, browsing, and discover
 
 Below are some preview screenshots from the app:
 
-![Screenshot 1](assets/screenshots/screen1.jpg)
-![Screenshot 2](assets/screenshots/screen2.jpg)
-![Screenshot 3](assets/screenshots/screen3.jpg)
-![Screenshot 4](assets/screenshots/screen4.jpg)
-![Screenshot 5](assets/screenshots/screen5.jpg)
-![Screenshot 6](assets/screenshots/screen6.jpg)
-
-> 💡 Replace the filenames above with actual screenshot file names in the `assets/screenshots/` folder.
+![Splash Screen](assets/screenshots/splash.png)
+![Home Screen](assets/screenshots/home.png)
+![Search Screen](assets/screenshots/search.png)
+![Details Screen](assets/screenshots/details.png)
 
 ---
 
